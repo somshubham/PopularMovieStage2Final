@@ -3,7 +3,11 @@
 
 Popular Movie! is the project in Udacity's Android Developer Nanodegree.
 Requirement:-
-In this project, you will add to the app you built in Stage 1 by building on the detail view for each movie, allowing users to 'favorite' movies, and adding a tablet layout.
+In this project, you will add to the app you built in Stage 1 by building on the detail view for each movie, allowing users to 'favorite' movies, and adding a tablet layout.czcxc
+
+
+
+
 <img width="292" alt="3" src="https://cloud.githubusercontent.com/assets/12602212/21964957/a6179784-db7b-11e6-9918-1f6a43ee4540.png">
 <img width="294" alt="1" src="https://cloud.githubusercontent.com/assets/12602212/21964955/a5e5554e-db7b-11e6-8912-53c4f25a3d19.png">
 <img width="292" alt="2" src="https://cloud.githubusercontent.com/assets/12602212/21964956/a610c83c-db7b-11e6-83be-f33469f4effb.png">
